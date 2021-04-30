@@ -1,0 +1,1 @@
+pkg -o stv -t node4-linux,node4-win,node4-darwin index2.js
